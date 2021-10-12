@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+h1 { /* box-level */
+    background-color: #00ffff8e;
+    height: 300px;
+    width: 300px;
+
+    border: 10px solid darkblue;
+
+    padding: 10px;
+
+    margin: 20px auto 40px auto;
+
+    outline-width: 5px;
+    outline-style: dashed;
+    outline-color: darkred;
+
+    outline: 5px dashed darkred;
+
+}
+
+a {/* inline-level */
+    border-width: 10px;
+    border-style: solid;
+    border-color: #8b0000c9;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}

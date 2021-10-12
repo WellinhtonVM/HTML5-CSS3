@@ -1,0 +1,31 @@
+
+
+
+:root {
+    --cor0: #c5cbeb;
+    --cor1: #8394e1;
+    --cor2: #3d5adc;
+    --cor3: #2f45a8;
+    --cor4: #1a215c;
+    --cor5: #060b3d;
+}
+
+
+body {
+    
+    
+    margin: 0px;
+}
+
+
+header h1 {
+    background-image: linear-gradient(to top, var(--cor3), var(--cor2));
+
+    padding: 20px;
+    margin: 0px;
+}
+
+nav {
+    background-color: chartreuse;
+    padding: 10px;
+}

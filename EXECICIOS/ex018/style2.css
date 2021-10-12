@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Liebe finden';
+    src: url('Fontes/Liebe finden - OTF.otf') format('opentype'), url('Fontes/Liebe finden - TTF.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: 'Liebe finden', Times, serif;
+    font-size: 3em;
+    font-weight: normal;
+}
